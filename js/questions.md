@@ -7,7 +7,7 @@ var car = new Car();
 ```
   - `function Car() {}` is a function based class.
   - `var car = Car();` stores the properties of the Car class in a variable called `car`
-  - `var car = new Car();` instantiates the Car class using a construction function and allows you to set properties and methods. It's like taking a generic car and sending it to get painted and customized.
+  - `var car = new Car();` instantiates the Car class using a constructor function and allows you to set properties and methods on the class. It's like taking a generic car and sending it to get painted and customized.
 
 - 2: Explain what AJAX is and it’s advantages/disadvantages.
   - AJAX (Asynchronous JavaScript and XML) is a tool used to help create fast and dynamic web applications through HTTP requests.
